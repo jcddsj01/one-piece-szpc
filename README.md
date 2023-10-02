@@ -24,7 +24,7 @@ Tecnologias Utilizadas:
 Créditos:
 * Criado com base do Canal no YouTube | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
 
-Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.]()
+Implantação do Projeto no GitHub Pages: [Explore o projeto clicando aqui.](https://jcddsj01.github.io/one-piece-szpc/)
 
 ---
 
@@ -46,4 +46,4 @@ Technologies used:
 Credits:
 * Created on the basis of the YouTube channel | [Dev em Dobro](https://www.youtube.com/@DevemDobro)
 
-Project deployment on GitHub Pages: [Explore the project by clicking here.]()
+Project deployment on GitHub Pages: [Explore the project by clicking here.](https://jcddsj01.github.io/one-piece-szpc/)
